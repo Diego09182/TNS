@@ -9,7 +9,7 @@
 
 ## About Project
 
-A multipurpose task management tool developed using Laravel, with a focus on speed, simplicity, and practicality.
+Here is an example of a project that uses Laravel to integrate with a Taiwan news API.
 
 ## License
 
