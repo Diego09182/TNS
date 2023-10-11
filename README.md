@@ -11,6 +11,15 @@
 
 Here is an example of a project that uses Laravel to integrate with a Taiwan news API.
 
+## Installation 
+
+Install XAMPP to place this project into htdocs
+
+## Data table migration 
+
+Start command line tool execution 
+"php artisan migrate"
+
 ## License
 
 This Project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
