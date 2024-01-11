@@ -15,10 +15,6 @@
 
 安裝XAMPP並放置於htdocs資料夾
 
-## Data table migration 
-
-在控制台打開專案目錄執行"php artisan migrate"
-
 ## License
 
 這個開源專案適用於 [MIT license](https://opensource.org/licenses/MIT).
