@@ -9,17 +9,16 @@
 
 ## About Project
 
-Here is an example of a project that uses Laravel to integrate with a Taiwan news API.
+使用Laravel串接台灣新聞API
 
 ## Installation 
 
-Install XAMPP to place this project into htdocs
+安裝XAMPP並放置於htdocs資料夾
 
 ## Data table migration 
 
-Start command line tool execution 
-"php artisan migrate"
+在控制台打開專案目錄執行"php artisan migrate"
 
 ## License
 
-This Project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+這個開源專案適用於 [MIT license](https://opensource.org/licenses/MIT).
