@@ -9,7 +9,7 @@
 
 ## About Project
 
-使用Laravel串接台灣新聞API
+使用Laravel串接新聞API
 
 ## Installation 
 
