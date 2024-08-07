@@ -7,14 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Project
+## 關於專案
 
 使用Laravel串接新聞API
 
-## Installation 
+## 安裝 
 
 安裝XAMPP並放置於htdocs資料夾
 
-## License
+## 版本
+
+Apache 2.0
+
+php 8.2.12
+
+mariaDB 10.7
+
+## 授權條款
 
 這個開源專案適用於 [MIT license](https://opensource.org/licenses/MIT).
