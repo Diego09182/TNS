@@ -17,11 +17,11 @@
 
 ## 版本
 
-Apache 2.0
+Laravel v10.48.4
 
-php 8.2.12
+Materialize v1.0.0
 
-mariaDB 10.7
+jQuery v3.7.1
 
 ## 授權條款
 
